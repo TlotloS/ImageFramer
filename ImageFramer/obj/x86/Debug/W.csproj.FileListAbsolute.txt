@@ -1,0 +1,5 @@
+C:\Users\Eng\source\repos\ImageFramer\obj\x86\Debug\W.csprojAssemblyReference.cache
+C:\Users\Eng\source\repos\ImageFramer\obj\x86\Debug\ImageFramer.Form1.resources
+C:\Users\Eng\source\repos\ImageFramer\obj\x86\Debug\W.ImageFramer.Properties.Resources.resources
+C:\Users\Eng\source\repos\ImageFramer\obj\x86\Debug\W.csproj.GenerateResource.cache
+C:\Users\Eng\source\repos\ImageFramer\obj\x86\Debug\W.csproj.CoreCompileInputs.cache
